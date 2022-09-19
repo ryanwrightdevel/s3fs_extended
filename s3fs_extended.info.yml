@@ -1,0 +1,7 @@
+name: S3FS Extended
+description: Extend the to S3FS Service.
+package: S3
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  - s3fs:s3fs
